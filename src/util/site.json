@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "title": "VNTG",
+    "titleTemplate": "%s",
+    "description": "Gatsby Testing Blog",
+    "siteUrl": "https://foundation.stackrole.com",
+    "image": "/assets/stackrole.png",
+    "iconimage": "/assets/stackrole.png",
+    "twitterUsername": "@stackrole"
+  },
+  "ga": "UA-XXXXXXXXX-X"
+}
