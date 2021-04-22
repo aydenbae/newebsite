@@ -88,7 +88,6 @@ module.exports = {
         display: `standalone`,
         icon: "static" + settings.meta.iconimage,
       },
-    pathPrefix:"/gatsby-demo",
     },
     'gatsby-plugin-offline',
   ],
